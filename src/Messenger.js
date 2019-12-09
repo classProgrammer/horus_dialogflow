@@ -14,8 +14,7 @@ class Messenger extends React.Component {
                 <Grid item >
                     <Box>
                     <iframe
-                        title="3BIT Dev Bot"
-                        allow="microphone;"
+                        title="3 Banken IT Bot"
                         width="350"
                         height="500"
                         src="https://console.dialogflow.com/api-client/demo/embedded/fd0c2ee8-f37e-40c4-a92f-6bd3cd63dc62">
